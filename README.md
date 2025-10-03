@@ -1,16 +1,18 @@
-## Hi there 👋
+## Mi presentación
 
-<!--
-**marc5444/marc5444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Marc, estudiante de grado medio en informática (SMX) en [l'Escola Pia](https://mataro.escolapia.cat/).
 
-Here are some ideas to get you started:
+**Me apasiona descubrir cosas nuevas, probar con proyectos diferentes y mejorar día a día. Tengo un especial interés en:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Montaje y configuración de equipos  
+- Soporte técnico y solución de incidencias  
+
+**Objetivos**
+
+- Perfeccionar mis competencias en montaje y mantenimiento de hardware  
+- Continuar aprendiendo y desarrollándome en el ámbito de la informática  
+- Formar parte de proyectos reales que me aporten experiencia y conocimientos  
+
+
+**En GitHub**  
+Aquí iré compartiendo mis prácticas, proyectos propios, ideas y pruebas. Todo lo que me permita avanzar y aportar a la comunidad.  
